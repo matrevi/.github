@@ -1,7 +1,18 @@
-<img src="./logo.png" width="80" alt="元子矩阵 Logo">
+<p align="center">
+  <img src="./logo.png" width="76" alt="元子矩阵品牌标志">
+</p>
 
-# 元子矩阵 · matrevi
+<h1 align="center">元子矩阵 · matrevi</h1>
 
-我们为企业定制 AI 工作流和业务软件。从一份真实样本开始，我们和一线使用者一起验证效果，再把模型接入现有系统，让重复操作自动流转，关键结果由人复核。
+<p align="center"><strong>企业 AI 工作流定制与软件开发</strong></p>
 
-[访问官网](https://matrevi.com/) · [阅读宣传册](https://matrevi.com/brochure.html) · [联系合作](https://matrevi.com/contact.html)
+<p align="center">
+  我们从一份真实的业务样本入手，和一线团队一起验证 AI 能在哪一步帮上忙。<br>
+  再把验证过的方案接入现有系统，让重复操作自动流转，把关键判断留给人。
+</p>
+
+<p align="center">
+  <a href="https://matrevi.com/">访问官网</a> ·
+  <a href="https://matrevi.com/brochure.html">阅读宣传册</a> ·
+  <a href="https://matrevi.com/contact.html">联系合作</a>
+</p>
